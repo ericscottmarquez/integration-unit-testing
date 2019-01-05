@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a back end api for a user model authentication feature with JSON web token security features - includes some unit testing
 
 ## Available Scripts
 
